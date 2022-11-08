@@ -1,0 +1,36 @@
+.header-container {
+    padding-top: 15px;
+    padding-bottom: 1px;
+    background-color: rgb(59, 59, 59);
+    align-items: center;
+}
+
+.nav-ul {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+}
+
+.nav-ul a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+    transition: 0.5s ease;
+}
+
+.nav-ul a:hover {
+    color: rgb(171, 171, 171);
+    transition: 0.5s ease;
+}
+
+.welcome-user {
+    color: rgb(185, 255, 79);
+    text-align: right;
+}
+
+@media (min-width: 600px) {
+    .welcome-user {
+        display: inline;
+    }
+}

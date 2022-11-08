@@ -1,0 +1,64 @@
+@media (min-width: 600px) {
+    .most-watched-section {
+        text-align: center;
+    }
+}
+
+@media (min-width: 600px) {
+    .most-watched-article {
+        display: inline-block;
+        padding: 5rem;
+    }
+}
+
+.card-box {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    border-top: 2px solid rgb(114, 59, 59);
+    border-left: 2px solid rgb(114, 59, 59);
+    margin-bottom: 5rem;
+}
+
+@media (min-width: 600px) {
+    .card-box {
+        width: 100%;
+    }
+}
+
+.card-box img {
+    border-radius: 20px;
+    width: 10rem;
+    height: 15rem;
+}
+
+.card-box h2 {
+    font-size: 15px;
+    text-align: center;
+}
+
+.card-box button {
+    width: 100%;
+    border-radius: 20px;
+    background-color: rgb(114, 59, 59);
+    color: white;
+    border: 2px solid rgb(114, 59, 59);
+    transition: 0.5s ease;
+}
+
+.card-box button a {
+    text-decoration: none;
+    color: white;
+}
+
+.card-box button:hover {
+    background-color: white;
+    border: 2px solid rgb(114, 59, 59);
+    transition: 0.5s ease;
+}
+
+.card-box button:hover a {
+    color: rgb(114, 59, 59);
+    transition: 0.5s ease;
+}

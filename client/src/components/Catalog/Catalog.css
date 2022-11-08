@@ -1,0 +1,62 @@
+.want-to-do-something {
+    width: 90%;
+    margin: auto auto;
+    text-align: center;
+}
+
+.want-to-create-movie,
+.want-to-create-account {
+    width: 90%;
+    margin: auto auto;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+    background-color: rgb(235, 235, 235);
+    padding: 5rem;
+    border-radius: 20px;
+    transition: 0.5s ease;
+}
+
+@media (min-width: 800px) {
+    .want-to-create-movie,
+    .want-to-create-account {
+        width: 70%;
+    }
+}
+
+@media (min-width: 1400px) {
+    .want-to-create-movie,
+    .want-to-create-account {
+        display: inline-block;
+        width: 40%;
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+}
+
+.want-to-create-movie:hover p,
+.want-to-create-account:hover p {
+    opacity: 1;
+    transition: 0.5s ease;
+}
+
+.want-to-create-movie:hover,
+.want-to-create-account:hover {
+    background-color: rgb(246, 246, 246);
+    transition: 0.5s ease;
+}
+
+.want-to-do-something p {
+    opacity: 0;
+    transition: 0.5s ease;
+}
+
+.want-to-do-something p a {
+    text-decoration: none;
+    color: rgb(56, 136, 255);
+    transition: 0.5s ease;
+}
+
+.want-to-do-something p a:hover {
+    color: white;
+    transition: 0.5s ease;
+}
