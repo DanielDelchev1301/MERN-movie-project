@@ -30,3 +30,21 @@
   #### Desktop:
   
   ![desktop](https://user-images.githubusercontent.com/93489370/200597558-0d3daa26-67fd-4c75-95b5-f1836b63dd56.png)
+  #
+  ![desktop2](https://user-images.githubusercontent.com/93489370/200597974-4661ff0e-7ebb-42ce-b0de-2c59219bb916.png)
+  #
+  ![desktop3](https://user-images.githubusercontent.com/93489370/200597988-010aeb6b-68e8-4810-b308-27c01ae91001.png)
+  #
+  ![desktop4](https://user-images.githubusercontent.com/93489370/200598013-3f8d8f2e-02af-42d8-86ff-ca1c4e0f059d.png)
+  #
+  
+  #### Mobile:
+  
+  ![mobile](https://user-images.githubusercontent.com/93489370/200598030-6c74470d-ce70-4de7-9fad-f6432b4218e4.png)
+  ![mobile2](https://user-images.githubusercontent.com/93489370/200598051-2a60b417-9bf6-4410-a3ca-4937fdf36199.png)
+  #
+  ![mobile3](https://user-images.githubusercontent.com/93489370/200598069-cadf16be-08b3-41ab-9c08-eacd051a7f89.png)
+  ![mobile4](https://user-images.githubusercontent.com/93489370/200598091-83da188e-bb6f-4bff-aa15-50d5b4802413.png)
+  #
+  ![mobile5](https://user-images.githubusercontent.com/93489370/200598108-78ce0b7c-460b-4f69-9a36-d55acd43190d.png)
+  #
